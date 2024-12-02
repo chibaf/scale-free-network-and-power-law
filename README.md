@@ -15,3 +15,6 @@ https://www.science.org/doi/10.1126/science.286.5439.509
 sfnetwork.py,sfnetwork2000.py: 
 Simulating Scale-Free Networks using Python | by Saptarshi Chaudhuri | Medium
 https://medium.com/@saptarshichaudhuri/building-a-scale-free-network-using-python-b305e31042a1
+
+BarabasiAlbertGraphDistribution—Wolfram Language Documentation
+https://reference.wolfram.com/language/ref/BarabasiAlbertGraphDistribution.html
