@@ -11,3 +11,6 @@ https://www.nature.com/articles/43601
 
 Emergence of Scaling in Random Networks | Science
 https://www.science.org/doi/10.1126/science.286.5439.509
+
+Simulating Scale-Free Networks using Python | by Saptarshi Chaudhuri | Medium
+https://medium.com/@saptarshichaudhuri/building-a-scale-free-network-using-python-b305e31042a1
